@@ -1,1 +1,1 @@
-test
+2023-09-29T12:19:00.494Z  INFO 942315 --- [  restartedMain] o.s.s.petclinic.PetClinicApplication     : Started PetClinicApplication in 13.518 seconds (process running for 14.8)
