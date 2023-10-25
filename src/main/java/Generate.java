@@ -7,7 +7,6 @@ public class Generate {
 
 	public static void main(String[] args) {
 		Generate myObj = new Generate();
-
 		System.out.println(myObj.xxx);
 	}
 }
