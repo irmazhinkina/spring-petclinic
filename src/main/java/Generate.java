@@ -1,12 +1,14 @@
 public class Generate {
-	int xxx = 5;
+	static int xxx = 5;
 
-	public Generate() {
-		this.xxx = xxx;
-	}
+
 
 	public static void main(String[] args) {
 		Generate myObj = new Generate();
-		System.out.println(myObj.xxx);
+		System.out.println(xxx);
+	}
+
+	public Generate() {
+		this.xxx = xxx;
 	}
 }
